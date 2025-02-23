@@ -3,6 +3,12 @@
 
 A full-stack web application that uses AI to analyze and simulate survey responses on political topics. The application generates detailed demographic personas and simulates their responses to survey questions.
 
+
+
+https://github.com/user-attachments/assets/7e352c53-b165-461d-a6dd-fb298ac08ba5
+
+
+
 ## Features
 
 - AI-powered survey response generation
